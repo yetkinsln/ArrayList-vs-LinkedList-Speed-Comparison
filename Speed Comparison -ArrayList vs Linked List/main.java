@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-//Author: Yetkin Aslan github: yetkinsln                2022 Javelin Foundation
+//Author: Yetkin Aslan github: yetkinsln 
 
 
 public class main{
